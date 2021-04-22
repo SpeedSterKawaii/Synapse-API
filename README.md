@@ -14,3 +14,5 @@ I'm sure you need a whitelist (key registered).
 
 A friend lend it to me.
 IDK if this is a virus or anything.
+
+I decompiled in DnSpy and Seems to be Original SxAPI.
